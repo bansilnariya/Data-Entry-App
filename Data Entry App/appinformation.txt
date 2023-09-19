@@ -1,0 +1,13 @@
+-->This is a python data entrey app projects.
+-->it is developing using a Python Language.
+-->different different types of library used.
+-->This project mainly two files:
+
+	1.data_entry.py
+	2.data_entry2.xlsx
+
+1.data_entry.py:
+This file is a provides a python code.
+
+2.data_entry2.xlsx:
+This file is a excel files.
